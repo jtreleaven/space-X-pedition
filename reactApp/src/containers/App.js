@@ -6,9 +6,7 @@ class App extends Component {
     return (
       <div>
         <div>Welcome to Outer Space</div>
-        <br />
-        <PlanetCapture />
-        </div>
+      </div>
     )
   }
 }
